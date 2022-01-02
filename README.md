@@ -4,9 +4,13 @@
 
 <h2>🙋‍♂️About me</h2>
 
-I am Atri Sengupta, currently working as a Software Engineer @[GE](https://www.ge.com/). I am keen in learning new technologies, developing my mindset of continuous improvement and problem solving!
+🔭 Currently working as a Software Engineer @[GE](https://www.ge.com/).
+
+👨‍💻 I am keen in learning new technologies, developing my mindset of continuous improvement and problem solving!
 
 ⚡Me fact: I love to connect with people and interact. There's something to learn from everyone. 
+
+📫 How to reach me **atrisen1999@gmail.com**.
 
 ❤ Fun fact: I am a massive Formula 1 fan! Ping me if you want to discuss anything about F1!
 
@@ -17,14 +21,14 @@ I am Atri Sengupta, currently working as a Software Engineer @[GE](https://www.g
 <h2>🛠Languages and Tools</h2>
 
 <p align="left"> 
+    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/48/000000/mysql-logo.png" width="35" height="40"/> </a>
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>  
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
-  <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/48/000000/mysql-logo.png"/> </a>
+    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>   
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     
 </p>
